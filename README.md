@@ -1,10 +1,10 @@
 # student-grade-management
 Input edilen öğrenci notlarını dosya haline getirir ve aynı dosyadan veri çekebilir.
 İlk projemdir!
-🎓 Öğrenci Not Yönetim Sistemi
+**🎓 Öğrenci Not Yönetim Sistemi**
 
 Bu proje, öğrencilerin sınav notlarını kaydeden, ortalamalarını hesaplayan ve bu ortalamaları harf notuna dönüştürerek raporlayan basit bir Python uygulamasıdır. Veriler metin dosyaları (.txt) üzerinde saklanır ve yönetilir.
-🚀 Özellikler
+**🚀 Özellikler**
 
     Notları Görüntüle: Mevcut kayıtlı öğrencilerin ortalamalarını ve harf notlarını ekrana yazdırır.
 
@@ -14,13 +14,13 @@ Bu proje, öğrencilerin sınav notlarını kaydeden, ortalamalarını hesaplaya
 
     Hata Yönetimi: Geçersiz not girişlerini (sayı olmayan değerler) ve menü seçim hatalarını kontrol eder.
 
-🛠️ Kullanılan Teknolojiler
+**🛠️ Kullanılan Teknolojiler**
 
     Dil: Python 3
 
     Veri Saklama: Dosya İşlemleri (File I/O - .txt)
 
-📋 Harf Notu Skalası
+**📋 Harf Notu Skalası**
 
 Sistem şu aralıklara göre harf notu hesaplar:
 
@@ -34,7 +34,7 @@ Sistem şu aralıklara göre harf notu hesaplar:
 
     0 - 54: FF
 
-💻 Kullanım
+**💻 Kullanım**
 
     Bilgisayarınızda Python yüklü olduğundan emin olun.
 
@@ -49,7 +49,7 @@ Sistem şu aralıklara göre harf notu hesaplar:
 
     Ekrandaki menüden yapmak istediğiniz işlemi seçin (1-4).
 
-📂 Dosya Yapısı
+**📂 Dosya Yapısı**
 
     gradeApplication.py: Uygulamanın ana kaynak kodu.
 
