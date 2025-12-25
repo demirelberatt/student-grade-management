@@ -44,7 +44,6 @@ Sistem şu aralıklara göre harf notu hesaplar:
     Terminal/Komut istemcisinde dosyanın bulunduğu dizine gidin.
 
     Aşağıdaki komutu çalıştırın:
-    Bash
 
     python gradeApplication.py
 
