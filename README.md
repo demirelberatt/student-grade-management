@@ -1,6 +1,7 @@
 # student-grade-management
 Input edilen öğrenci notlarını dosya haline getirir ve aynı dosyadan veri çekebilir.
 İlk projemdir!
+
 **🎓 Öğrenci Not Yönetim Sistemi**
 
 Bu proje, öğrencilerin sınav notlarını kaydeden, ortalamalarını hesaplayan ve bu ortalamaları harf notuna dönüştürerek raporlayan basit bir Python uygulamasıdır. Veriler metin dosyaları (.txt) üzerinde saklanır ve yönetilir.
